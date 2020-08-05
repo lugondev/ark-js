@@ -43,3 +43,5 @@ doc
 .DS_Store
 .tags
 bundle.min.js
+.idea
+*.iml
